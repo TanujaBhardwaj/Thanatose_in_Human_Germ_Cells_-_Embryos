@@ -1,4 +1,7 @@
-This folder contains:
+# This folder contains:
+
 Study Layout
+
 Scripts used in this study
+
 Additional files
