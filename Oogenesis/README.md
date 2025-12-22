@@ -1,4 +1,4 @@
-This folder contains:
+# This folder contains:
 
 Study layout
 
